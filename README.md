@@ -2,8 +2,9 @@
 # ClipVault
 ClipVault is a web application that allows you to securely share files and text using a simple 4-digit code. It's designed for quick, secure, and temporary sharing of sensitive information.
 
-> **Note:** This project was developed collaboratively by **Shantnu Talokar** and **Shekhar**.  
+> **Note:** This project was developed collaboratively by **Shantnu Talokar** and **Shekhar Nipane**.  
 > The original/main repository is available [here](https://github.com/kasnk/clipvault).
+> **Live Demo:** [https://clipvault-cg5q.onrender.com/](https://clipvault-cg5q.onrender.com/)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 =======
