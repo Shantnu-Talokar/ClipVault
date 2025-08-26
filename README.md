@@ -2,11 +2,10 @@
 # ClipVault
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-=======
-## License
-This project is licensed under the **Apache License 2.0** - see the [LICENSE](LICENSE) file for details.
-**Note:** This project was developed collaboratively by **Shantnu Talokar** and **Shekhar**.  
-The original/main repository is available [here](https://github.com/kasnk/clipvault).
+
+> **Note:** This project was developed collaboratively by **Shantnu Talokar** and **Shekhar**.  
+> The original/main repository is available [here](https://github.com/kasnk/clipvault).
+
 =======
 
 ClipVault is a web application that allows you to securely share files and text using a simple 4-digit code. It's designed for quick, secure, and temporary sharing of sensitive information.
